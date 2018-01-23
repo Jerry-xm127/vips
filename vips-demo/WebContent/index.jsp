@@ -8,5 +8,6 @@
 </head>
 <body>
 		<h1>你好世界</h1>
+		<a href="#">百度</a>
 </body>
 </html>
